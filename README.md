@@ -20,7 +20,7 @@
 ## Compiling and running on Linux
 ```
 git clone --recurse-submodules https://github.com/m2neral/cubesGame.git
-cd learnOpenGLCubes
+cd cubesGame
 mkdir build
 cmake -S . -B build
 make -C build
